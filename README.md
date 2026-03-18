@@ -1,6 +1,6 @@
 # Customer-Data-Dashboard-Excel
 
-## Questions answered in this analysis
+## Questions answered in this analysis.
 
 -	What is the age distribution of our customers?
 -	Which store department are most frequented by customers from different countries?
